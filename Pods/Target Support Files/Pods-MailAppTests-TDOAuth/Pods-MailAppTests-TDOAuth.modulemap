@@ -1,0 +1,6 @@
+framework module TDOAuth {
+  umbrella header "Pods-MailAppTests-TDOAuth-umbrella.h"
+
+  export *
+  module * { export * }
+}

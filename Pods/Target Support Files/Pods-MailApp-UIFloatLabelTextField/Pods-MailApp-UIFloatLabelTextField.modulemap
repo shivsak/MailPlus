@@ -1,0 +1,6 @@
+framework module UIFloatLabelTextField {
+  umbrella header "Pods-MailApp-UIFloatLabelTextField-umbrella.h"
+
+  export *
+  module * { export * }
+}

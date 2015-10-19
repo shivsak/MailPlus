@@ -1,0 +1,6 @@
+framework module CIOAPIClient {
+  umbrella header "Pods-MailApp-CIOAPIClient-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,61 @@
+PODS:
+  - CBZSplashView (1.0.0)
+  - CIOAPIClient (0.9.1):
+    - SSKeychain (~> 1)
+    - TDOAuth (~> 1.1)
+  - ContextMenu.iOS (1.0.0)
+  - Crashlytics (3.3.4)
+  - Fabric (1.5.5):
+    - Fabric/Base (= 1.5.5)
+  - Fabric/Base (1.5.5)
+  - FontAwesome+iOS (0.1.4)
+  - HexColors (2.2.1)
+  - JFMinimalNotifications (0.0.5)
+  - OMGHTTPURLRQ/UserAgent (3.0.0)
+  - PPiAwesomeButton (1.5.2):
+    - FontAwesome+iOS
+  - RZTransitions (1.1.1)
+  - SSKeychain (1.2.3)
+  - SVProgressHUD (1.1.3)
+  - SVPullToRefresh (0.4.1)
+  - TDOAuth (1.1.0):
+    - OMGHTTPURLRQ/UserAgent
+  - TSMessages (0.9.12):
+    - HexColors (~> 2.2.0)
+  - UIFloatLabelTextField (1.2.1)
+
+DEPENDENCIES:
+  - CBZSplashView (~> 1.0.0)
+  - CIOAPIClient (~> 0.9)
+  - ContextMenu.iOS (~> 1.0.0)
+  - Crashlytics
+  - Fabric
+  - FontAwesome+iOS
+  - JFMinimalNotifications (~> 0.0.4)
+  - PPiAwesomeButton
+  - RZTransitions (~> 1.0)
+  - SVProgressHUD
+  - SVPullToRefresh
+  - TSMessages
+  - UIFloatLabelTextField
+
+SPEC CHECKSUMS:
+  CBZSplashView: 9ce4cba22024476ff4a97d6433e7347da6376016
+  CIOAPIClient: ec20174c9e275e606862e0493441299807aeb8a7
+  ContextMenu.iOS: 7da78b3f99e604669b75e55146c6c33147f64f99
+  Crashlytics: 41c082440d2e14da444186fff65e79c0b4b35d4c
+  Fabric: 190bf1a6eb65f7500de1347d027d2e59a7e53db1
+  FontAwesome+iOS: 9070b682a9255ca0fdc34bcfb129ad0ba2b73b87
+  HexColors: abfd172e329dab59888614ccba6f216cec59289d
+  JFMinimalNotifications: c0d1eba2b826c1599416880dd48059c9153a6d9a
+  OMGHTTPURLRQ: 45cd892e5643206a5a359307621df7678625ebec
+  PPiAwesomeButton: 16f7279582fd36f65186b24b83ef876217363eb5
+  RZTransitions: d3a1ad40f580eaee5aeecd55688e4280e8dca976
+  SSKeychain: 3f42991739c6c60a9cf1bbd4dff6c0d3694bcf3d
+  SVProgressHUD: 748080e4f36e603f6c02aec292664239df5279c1
+  SVPullToRefresh: ba2e718695a43253d8bea6852d2960097dc15d8c
+  TDOAuth: efb25d45d5062b9cfb41c14c54f74c7b6c7a1abc
+  TSMessages: c8cc7b80f2a833af533872cd02010cac061532cc
+  UIFloatLabelTextField: addef0228278e178751a0de2d5200fe662a0757b
+
+COCOAPODS: 0.37.2

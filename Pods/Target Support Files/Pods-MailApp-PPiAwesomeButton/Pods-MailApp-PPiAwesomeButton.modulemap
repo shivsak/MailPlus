@@ -1,0 +1,6 @@
+framework module PPiAwesomeButton {
+  umbrella header "Pods-MailApp-PPiAwesomeButton-umbrella.h"
+
+  export *
+  module * { export * }
+}

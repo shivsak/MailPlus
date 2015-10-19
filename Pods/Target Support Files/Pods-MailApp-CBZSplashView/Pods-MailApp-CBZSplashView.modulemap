@@ -1,0 +1,6 @@
+framework module CBZSplashView {
+  umbrella header "Pods-MailApp-CBZSplashView-umbrella.h"
+
+  export *
+  module * { export * }
+}

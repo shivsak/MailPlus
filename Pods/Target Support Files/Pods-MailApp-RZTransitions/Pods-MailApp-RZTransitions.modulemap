@@ -1,0 +1,6 @@
+framework module RZTransitions {
+  umbrella header "Pods-MailApp-RZTransitions-umbrella.h"
+
+  export *
+  module * { export * }
+}
